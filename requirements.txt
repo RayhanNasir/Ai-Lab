@@ -1,0 +1,16 @@
+# Ai-Lab
+
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+mlxtend  
+seaborn
+sklearn 
+sympy 
+nose 
+h5py 
+scikit-image
+xgboost
+lightgbm
